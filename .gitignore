@@ -2,3 +2,4 @@ suitecrm.log
 /.phpintel
 /.idea
 /cache
+.vscode/
